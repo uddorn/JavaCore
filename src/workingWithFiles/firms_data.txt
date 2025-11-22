@@ -1,0 +1,10 @@
+TechCorp;500;120.5;IT
+BuildIt;120;30.2;Будівництво
+Foodies;350;75.0;Харчова промисловість
+EcoFuel;80;45.8;Енергетика
+Innovate Solutions;1200;300.0;IT
+HealthFirst;450;110.3;Медицина
+AutoDrive;600;210.0;Автомобілі
+GlobalLogistics;220;88.0;Логістика
+MediaHub;150;25.5;Медіа
+GreenFarm;90;15.0;Агро
