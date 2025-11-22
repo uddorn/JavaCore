@@ -1,8 +1,40 @@
-# Default ignored files
-/shelf/
+# ===========================
+# 🏗️ Build & Compilation
+# ===========================
+*.class
+out/
+target/
+
+# ===========================
+# 🔧 IntelliJ IDEA Configuration
+# ===========================
+# Project metadata
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# User-specific workspace (Ваш старий workspace.xml тут 👇)
 /workspace.xml
-# Editor-based HTTP Client requests
+
+# Shelved changes (Ваш старий shelf тут 👇)
+/shelf/
+
+# HTTP Client & Database (Ваші старі налаштування тут 👇)
 /httpRequests/
-# Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+# ===========================
+# 📦 Maven Release Files
+# ===========================
+pom.xml.tag
+release.properties
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# ===========================
+# 🖥️ OS System Files
+# ===========================
+.DS_Store
+Thumbs.db
